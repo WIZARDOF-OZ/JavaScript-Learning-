@@ -1,3 +1,5 @@
+console.log('we are at tut 2');
+
 console.time('your code took')
 console.log('Hey Mate');
 console.table({Name: 'Rizuwanul',

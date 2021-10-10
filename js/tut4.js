@@ -2,6 +2,8 @@
 
  // String
 
+ console.log('we are at tut 4');
+
  let name = "nice";
  console.log("My string is " + name);
  console.log("Data type is " + (typeof name));
